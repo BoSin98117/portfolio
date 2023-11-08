@@ -73,6 +73,25 @@ export default function Resume(props) {
                 "A bbq site inpsired by the annual Best In The West Nugget Rib Cook-Off in Sparks, NV, United States.",
             subHeading: "Technologies Used: ReactJS, Node.js, MongoDB, BootStrap",
         },
+
+
+
+
+        {
+            title: <a href='https://github.com/BoSin98117/albums'>
+                ALBUMS
+            </a>,
+            duration: { fromDate: "2023", toDate: "" },
+            description:
+                "An application that utilizes the @faker library to generate names, albums, and photos which includes the use of Redux ToolKit Query tags to fetch data.",
+            subHeading: "Technologies Used: ReactJS, Node.js, Redux ToolKit Query, JSON server",
+        },
+
+
+
+
+
+
         {
             title: <a href='https://github.com/BoSin98117/Flavr'>
                 FLAVR

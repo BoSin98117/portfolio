@@ -59,7 +59,7 @@ export default function AboutMe(props) {
                                 {""}
                                 Email Me{" "}
                             </button>
-                            <a href='Bo_Sin_Resume.docx' download='Bo Sin Resume'>
+                            <a href='BoSin_Resume.docx' download='Bo Sin Resume'>
                                 <button className='btn highlighted-btn'>Get Resume</button>
                             </a>
                         </div>
