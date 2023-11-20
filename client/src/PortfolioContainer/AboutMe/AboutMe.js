@@ -24,7 +24,7 @@ export default function AboutMe(props) {
                 "I enjoy challenges and coming up with a solution to every problem I encounter.  In my opinion, technology is way that we can make our lives more manageable from smart thermometers that tells you when a roast is done to smart devices that allows the elderly to maintain their independence by speaking to it.  As a person who is naturally inclined to helping and serving others, I want to make this world a better place by contributing to the advancement of technology in every aspect of life.  ",
             ],
 
-            // heading: "Here are a Few Highlights:"
+            // heading: "Here are a Few Highlights::"
         }
     }
 
